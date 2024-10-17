@@ -1,0 +1,11 @@
+tejas11:5500
+tejas10:750
+Banana:100
+Dried Mango:80
+Hemp Seeds:50
+Apple:40
+Grapefruit:10
+Pineapple:10
+Zebra:10
+tejas5:10
+tejas:10
